@@ -61,6 +61,7 @@
     flex-direction: row;
     top: 610px;
     top: 610px;
+    margin-top: 30px;
 }
 .firstName{
     margin-left: 70px;
@@ -74,6 +75,7 @@
     height: 45px;
     border-radius: 8px;
     border: 1px solid black;
+    margin-right: 15px;
 }
 .lastName{
     left: 424px;
@@ -119,3 +121,6 @@
     border-radius: 8px   
 }
 
+.descMarg{
+    margin-top: 20px;
+}
