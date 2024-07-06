@@ -1,0 +1,49 @@
+.NewsList {
+    margin-left: 43px;
+    margin-top: 45px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.FirstRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.id {
+    font-size: 20px;
+    color: grey;
+}
+.h1text {
+    font-size: 20px;
+    color: black;
+}
+.CreationButton {
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: grey;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 8px;
+}
+.line1{
+    width:50%;
+    text-align:left;
+    margin-left: 2%;
+    width: 97%;
+}
+.bigDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.fetchedDiv{
+    top: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90%;
+    margin-left: 2%;
+}
